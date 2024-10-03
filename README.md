@@ -9,7 +9,8 @@ The user interface is built using **HTML**, **CSS**, and **JavaScript** to provi
 
 ## Database
 **MySQL** is used as the relational database management system to store all relevant data, including user information, booking details, and availability of services. 
---
+
+
 ![image](https://github.com/user-attachments/assets/b86ed65d-d49a-49d5-87f1-851e3cc2b301)
 ![image](https://github.com/user-attachments/assets/2c3f5c3e-c426-48d9-91bd-5e03b203d910)
 ![image](https://github.com/user-attachments/assets/052570c7-4c8b-4f6b-b181-bf3bfaa614d5)
