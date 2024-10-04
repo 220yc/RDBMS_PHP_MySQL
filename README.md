@@ -1,5 +1,5 @@
 # Booking Website Using PHP + MySQL🥸
-Relational Database Management System (RDBMS)
+<h2>Relational Database Management System (RDBMS)
 # Key Components
 
 ## Frontend
