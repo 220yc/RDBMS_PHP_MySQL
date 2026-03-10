@@ -19,7 +19,6 @@ The user interface is built using **HTML**, **CSS**, and **JavaScript** to provi
 ![image](https://github.com/user-attachments/assets/31432be9-5e00-4a8f-a7f5-0dd28002418e)
 ![image](https://github.com/user-attachments/assets/1e863bac-ab1c-495f-9448-f0e3862eaeed)
 --
-![image](https://github.com/user-attachments/assets/9dd4892e-a83b-418d-8990-cb66f1a99608)
 
 
 
